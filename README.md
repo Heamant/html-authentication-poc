@@ -9,14 +9,14 @@
 <br>
 
 ### 3. Forgot Password Page
-![forgot Page](screenshots/forgot.png)
+![forgot Page](screenshots/Forgot.png)
 <br>
 
 ### 4. Reset Password Page
-![forgot Page](screenshots/reset.png)
+![forgot Page](screenshots/Reset.png)
 <br>
 
 ### 5. Dashboard Page
-![forgot Page](screenshots/dashboard.png)
+![forgot Page](screenshots/Dashboard.png)
 <br>
 
